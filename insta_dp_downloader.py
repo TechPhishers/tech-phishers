@@ -1,3 +1,4 @@
+# pip install instaloader
 import os
 import instaloader
 
